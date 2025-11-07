@@ -1,19 +1,12 @@
-# Olá, eu sou o Lucca!
+# 𝐿𝑢𝑐𝑐𝑎 𝑉𝑖𝑔𝑎𝑛𝑜𝑛 𝑃𝑒𝑟𝑖𝑜𝑡𝑡𝑜 | 20 𝑎𝑛𝑜𝑠
 
-### Estudante de Análise e Desenvolvimento de Sistemas | Faculdade de Tecnologia SENAI - São Carlos
+### 🎓 Análise e Desenvolvimento de Sistemas | Faculdade SENAI - São Carlos
 
 <ul>
-  <li>Focado em aprender e conhecer novas tecnologias</li>
-  <li>Procurando oportunidades de estágio</li>
+  <li>Procurando por oportunidades de estágio.</li>
+  <li>Focado em uma carreira promissora.</li>
 </ul>
-
-<h2 align="left">My contributions</h2>
-
-###
-<img src="https://raw.githubusercontent.com/Viganop/Viganop/output/snake.svg" alt="Snake animation" />
-
-###
-
+━━━━━━━━╌╌┄╌╌┄╌╌╌┄╌╌┄╌╌┄╌╌╌┄╌╌┄╌╌┄╌╌╌┄╌╌┄╌╌┄
 <div style="display: inline_block"><br> 
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
@@ -25,16 +18,34 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="" height="30" width="40" src="https://camo.githubusercontent.com/78933318dc933621f2e24f6f125c4d86236b5cfe60640beb2d34682a05891e2e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"
+  </div>
+
+
   
-          
+<br>
+━━━━━━━━╌╌┄╌╌┄╌╌╌┄╌╌┄╌╌┄╌╌╌┄╌╌┄╌╌┄╌╌╌┄╌╌┄╌╌┄
+<br><br>
+
+
+<div style="display: inline_block">
+ <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/8759/8759159.png" />
+ <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" />
+ <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+ <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/Viganop">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viganop&layout=compact&bg_color=1c1c1c&text_color=ffffff"
-    />
-  </a>
-</p>
+━━━━━━━━╌╌┄╌╌┄╌╌╌┄╌╌┄╌╌┄╌╌╌┄╌╌┄╌╌┄╌╌╌┄╌╌┄╌╌┄
+<div style="display: inline_block">
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GameMakerStudio.svg" />
+</div>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccaperiotto@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_viganon/)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=wh)](https://www.linkedin.com/in/luccaviganonperiotto//)
