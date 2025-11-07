@@ -1,17 +1,25 @@
-# 𝑎𝑏𝑜𝑢𝑡 𝑚𝑒 
+<h1 align="center">Hello, I'm Lucca Viganon Periotto! 👋🏻</h1>
 
-### 🎓 Análise e Desenvolvimento de Sistemas | Faculdade SENAI - São Carlos
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=30&center=true&vCenter=true&lines=Software+Developer;Website+Developer;Game+Developer" />
+</p>
+
+<h2 align="left">𝑎𝑏𝑜𝑢𝑡 𝑚𝑒</h2>
+
+### 🎓 Systems Analysis and Development | Faculty SENAI - São Carlos, SP
+
+
 
 <ul>
-  <li>Procurando por oportunidades de estágio.</li> 
-  <li>Focado em uma carreira promissora.</li>
+  <li>Looking for internship opportunities.</li> 
+  <li>Focused on a promising career.</li>
 </ul>
 
 ---
 
 <h2 align="left">𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒</h2>
 <div style="display: inline_block">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" alt="" height="30" width="40" src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" />
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,8 +39,7 @@
 <h2 align="left">𝑆𝑜𝑓𝑡𝑤𝑎𝑟𝑒𝑠</h2>
 <div style="display: inline_block">
 <img height="30" width="40" src="https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e/32/128x128.png" />
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> 
 </div>
 
 ---
