@@ -7,6 +7,13 @@
   <li>Procurando oportunidades de estágio</li>
 </ul>
 
+<h2 align="left">My contributions</h2>
+
+###
+<img src="https://raw.githubusercontent.com/VictorLemosbar/VictorLemosbar/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div style="display: inline_block"><br> 
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
