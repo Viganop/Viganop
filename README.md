@@ -29,3 +29,12 @@
   
           
 </div>
+
+<p align="center">
+  <a href="https://github.com/Viganop">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viganop&layout=compact&bg_color=1c1c1c&text_color=ffffff"
+    />
+  </a>
+</p>
