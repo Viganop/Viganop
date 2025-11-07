@@ -1,4 +1,4 @@
-# 𝐿𝑢𝑐𝑐𝑎 𝑉𝑖𝑔𝑎𝑛𝑜𝑛 𝑃𝑒𝑟𝑖𝑜𝑡𝑡𝑜 | 20 𝑎𝑛𝑜𝑠
+# 𝐿𝑢𝑐𝑐𝑎 𝑉𝑖𝑔𝑎𝑛𝑜𝑛 𝑃𝑒𝑟𝑖𝑜𝑡𝑡𝑜
 
 ### 🎓 Análise e Desenvolvimento de Sistemas | Faculdade SENAI - São Carlos
 
