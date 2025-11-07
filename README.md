@@ -1,8 +1,14 @@
+
+
+<img align="center" alt="" height="2000" width="2000" src="https://raw.githubusercontent.com/BEPb/BEPb/dd32788b77fbf933f602b9e608dd2ee873f4e0ca/assets/Bottom_up.svg" />
+
 <h1 align="center">Hello, I'm Lucca Viganon Periotto! 👋🏻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=30&center=true&vCenter=true&lines=Software+Developer;Website+Developer;Game+Developer" />
 </p>
+
+---
 
 <h2 align="left">𝑎𝑏𝑜𝑢𝑡 𝑚𝑒</h2>
 
@@ -46,3 +52,5 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccaperiotto@gmail.com)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=wh)](https://www.linkedin.com/in/luccaviganonperiotto//)
+
+<img align="center" alt="" height="3000" width="3000" src="https://raw.githubusercontent.com/BEPb/BEPb/dd32788b77fbf933f602b9e608dd2ee873f4e0ca/assets/Bottom_down.svg" />
