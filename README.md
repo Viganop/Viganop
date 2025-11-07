@@ -37,5 +37,4 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccaperiotto@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_viganon/)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=wh)](https://www.linkedin.com/in/luccaviganonperiotto//)
