@@ -1,4 +1,4 @@
-# 𝐿𝑢𝑐𝑐𝑎 𝑉𝑖𝑔𝑎𝑛𝑜𝑛 𝑃𝑒𝑟𝑖𝑜𝑡𝑡𝑜
+# 𝑎𝑏𝑜𝑢𝑡 𝑚𝑒 
 
 ### 🎓 Análise e Desenvolvimento de Sistemas | Faculdade SENAI - São Carlos
 
@@ -25,7 +25,7 @@
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
----
+
 
 <h2 align="left">𝑆𝑜𝑓𝑡𝑤𝑎𝑟𝑒𝑠</h2>
 <div style="display: inline_block">
