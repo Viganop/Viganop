@@ -10,7 +10,7 @@
 <h2 align="left">My contributions</h2>
 
 ###
-<img src="https://raw.githubusercontent.com/VictorLemosbar/VictorLemosbar/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Viganop/Viganop/output/snake.svg" alt="Snake animation" />
 
 ###
 
