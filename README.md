@@ -22,11 +22,18 @@
 </ul>
 
 ---
+## 📊 GitHub Stats
 
- ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=Viganop&show_icons=true&theme=radical&include_all_commits=true)  ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Viganop&theme=radical&layout=compact) |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Viganop&show_icons=true&theme=tokyonight&count_private=true&hide=issues" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Viganop&theme=tokyonight&v=5" width="48%" />
+</div>
 
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Viganop"></img>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viganop&layout=compact&theme=tokyonight" width="48%" />
+</div>
 ---
 
 <h2 align="left">𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒</h2>
@@ -59,21 +66,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccaperiotto@gmail.com)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=wh)](https://www.linkedin.com/in/luccaviganonperiotto//)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viganop&show_icons=true&theme=tokyonight&count_private=true&hide=issues" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viganop&theme=tokyonight" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viganop&layout=compact&theme=tokyonight" width="48%" />
-</div>
-
----
 
 <img align="center" alt="" height="3000" width="3000" src="https://raw.githubusercontent.com/BEPb/BEPb/dd32788b77fbf933f602b9e608dd2ee873f4e0ca/assets/Bottom_down.svg" />
