@@ -1,14 +1,12 @@
-<img align="center" alt="" height="2000" width="2000" src="https://raw.githubusercontent.com/BEPb/BEPb/dd32788b77fbf933f602b9e608dd2ee873f4e0ca/assets/Bottom_up.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=green&customColorList=12,14,20,24&height=200&section=header&text=Lucca%20Viganon%20Periotto&fontSize=68&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <h1 align="center">Hello, I'm Lucca Viganon Periotto! 👋🏻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=30&center=true&vCenter=true&lines=Software+Developer;Website+Developer;Game+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=836FFF&size=34&center=true&vCenter=true&lines=Software+Developer;Website+Developer;Game+Developer" />
 </p>
 
 ---
-
-<h2 align="left">🖊️ 𝑎𝑏𝑜𝑢𝑡 𝑚𝑒</h2>
 
 ### 🎓 Systems Analysis and Development | Faculty SENAI - São Carlos, SP
 
