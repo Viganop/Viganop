@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=green&customColorList=12,14,20,24&height=200&section=header&text=Lucca%20Viganon%20Periotto&fontSize=68&fontAlignY=35&animation=twinkling&fontColor=fff" />
-
-<h1 align="center">Hello, I'm Lucca Viganon Periotto! 👋🏻</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=black&customColorList=12,14,20,24&height=200&section=header&text=ʟᴜᴄᴄᴀ%20ᴠɪɢᴀɴᴏɴ%20ᴘᴇʀɪᴏᴛᴛᴏ&fontSize=68&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=836FFF&size=34&center=true&vCenter=true&lines=Software+Developer;Website+Developer;Game+Developer" />
@@ -17,7 +15,7 @@
 
 ---
 
-<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
+<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> ɢɪᴛʜᴜʙ sᴛᴀᴛɪsᴛɪᴄs</h2>
 
 ###
 
@@ -30,7 +28,7 @@
 
 ---
 
-<h2 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">  ­­­  Skills</h2>
+<h2 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">  ­­­  ᴋɴᴏᴡʟᴇᴅɢᴇ</h2>
 
 <div align="center"style="display: inline_block">
   <img align="center" alt="" height="60" width="70"src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" />
