@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=black&customColorList=12,14,20,24&height=200&section=header&text=ʟᴜᴄᴄᴀ%20ᴠɪɢᴀɴᴏɴ%20ᴘᴇʀɪᴏᴛᴛᴏ&fontSize=68&fontAlignY=35&animation=twinkling&fontColor=fff" />
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=7B68EE&size=34&center=true&vCenter=true&lines=「Software+Developer」;「Web+Developer」;「Game+Developer」;「Database+Analysis」" />
 </p>
