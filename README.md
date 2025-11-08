@@ -1,30 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=black&customColorList=12,14,20,24&height=200&section=header&text=ʟᴜᴄᴄᴀ%20ᴠɪɢᴀɴᴏɴ%20ᴘᴇʀɪᴏᴛᴛᴏ&fontSize=68&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=836FFF&size=34&center=true&vCenter=true&lines=Software+Developer;Website+Developer;Game+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7B68EE&size=34&center=true&vCenter=true&lines=「Software+Developer」;「Web+Developer」;「Game+Developer」;「Database+Analysis」" />
 </p>
 
 ---
 
-### 🎓 Systems Analysis and Development | Faculty SENAI - São Carlos, SP
-
+<h1>🎓 sʏsᴛᴇᴍs ᴀɴᴀʟʏsɪs ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ | sᴇɴᴀɪ ᴄᴏʟʟᴇɢᴇ</h1>
 <ul>
   <li>Looking for internship opportunities.</li> 
   <li>Focused on a promising career.</li>
 </ul>
-
----
-
-<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> ɢɪᴛʜᴜʙ sᴛᴀᴛɪsᴛɪᴄs</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Viganop" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Viganop" height="150" alt="languages graph"  />
-</div>
-
-###
 
 ---
 
