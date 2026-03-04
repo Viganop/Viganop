@@ -10,7 +10,7 @@
 <!-- --------------------- -->
 
 <!-- Animated Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?color=EBEFFF&size=34&center=true&vCenter=true&lines=「Software+Developer」;「Web+Developer」;「Game+Developer」;「Database+Analysis」" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=708090&size=34&center=true&vCenter=true&lines=「Software+Developer」;「Web+Developer」;「Game+Developer」;「Database+Analysis」" />
 </p>
 
 ---
