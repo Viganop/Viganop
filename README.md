@@ -24,10 +24,9 @@
 <!-- --------------------- -->
 <!-- My KnowLedge -->
 <h2 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">  ­­­  ᴋɴᴏᴡʟᴇᴅɢᴇ</h2>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,react,python,mysql,git,github,gamemaker&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,tailwind,python,mysql,git,github,gamemaker&perline=12" />
   </a>
 </p>
 
@@ -35,8 +34,17 @@
 
 <!-- --------------------- -->
 <!-- Links -->
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccaperiotto@gmail.com)
-[![Linkedln](https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=wh)](https://www.linkedin.com/in/luccaviganonperiotto//)
+<p align="center">
+  <a href="https://lucca-dev.netlify.app/">
+    <img src="https://img.shields.io/badge/Portif%C3%B3lio%20Online-%23333?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <a href="mailto:luccaperiotto@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/luccaviganonperiotto/">
+    <img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <!-- --------------------- -->
 <!-- Footer Wave -->
