@@ -35,15 +35,11 @@
 <!-- --------------------- -->
 <!-- Links -->
 <p align="center">
-  <a href="https://lucca-dev.netlify.app/">
-    <img src="https://img.shields.io/badge/Portif%C3%B3lio%20Online-%23333?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="mailto:luccaperiotto@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/luccaviganonperiotto/">
-    <img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+[![Portfólio](https://img.shields.io/badge/Portif%C3%B3lio%20Online-%23333?style=for-the-badge&logoColor=white)](https://lucca-dev.netlify.app/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccaperiotto@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccaviganonperiotto/)
+
 </p>
 
 <!-- --------------------- -->
