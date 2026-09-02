@@ -6,16 +6,16 @@
   
 <!-- --------------------- -->
 <!-- Animated Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?color=708090&size=34&center=true&vCenter=true&lines=「Software+Developer」;「Web+Developer」;「Game+Developer」;「Database+Analysis」" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=708090&size=34&center=true&vCenter=true&lines=「Administrative+Analyst」;「FullStack+Developer」;「Database+Analysis」" />
 </p>
 
 ---
 
 <!-- --------------------- -->
 <!-- Description -->
+<h1>🏢 ᴊʀ ᴀᴅᴍɪɴɪsᴛʀᴀᴛɪᴠᴇ ᴀɴᴀʟʏsᴛ | ᴇᴠᴇʀᴛᴇᴄ ʙʀᴀsɪʟ</h1>
 <h1>🎓 sʏsᴛᴇᴍs ᴀɴᴀʟʏsɪs ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ | sᴇɴᴀɪ ᴄᴏʟʟᴇɢᴇ</h1>
 <ul>
-  <li>Looking for internship opportunities.</li> 
   <li>Focused on a promising career.</li>
 </ul>
 
@@ -36,7 +36,6 @@
 <!-- Links -->
 <p align="center">
 
-[![Portfólio](https://img.shields.io/badge/Portif%C3%B3lio%20Online-%23333?style=for-the-badge&logoColor=white)](https://lucca-dev.netlify.app/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccaperiotto@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccaviganonperiotto/)
 
