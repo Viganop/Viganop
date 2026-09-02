@@ -5,7 +5,7 @@
 <br>
 <!-- --------------------- -->
 <!-- About Me + Contact Card -->
-<table align="center" width="100%">
+<table align="center" width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="middle">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=black&customColorList=12,14,20,24&height=2&section=header" width="100%" height="1" />
@@ -57,3 +57,4 @@
 <!-- --------------------- -->
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=black&customColorList=12,14,20,24&height=120&section=footer" />
+ 
