@@ -6,15 +6,14 @@
   
 <!-- --------------------- -->
 <!-- Animated Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?color=708090&size=34&center=true&vCenter=true&lines=「Administrative+Analyst」;「FullStack+Developer」;「Database+Analysis」" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=39FF14&size=26&center=true&vCenter=true&width=600&background=00000000&lines=%3E+Administrative_Analyst;%3E+FullStack_Developer;%3E+Database_Analysis" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Viganop&label=Profile%20views&color=333333&style=flat" alt="profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Max%20Streak-17%20days-333333?style=flat" alt="max streak" />
 </p>
-
 <br>
-
 <!-- --------------------- -->
 <!-- About Me + Contact Card -->
 <table align="center" width="100%">
@@ -31,20 +30,21 @@
   </tr>
   <tr>
     <td valign="middle">
-      <h3>About Me</h3>
+      <h3 align="center">About Me</h3>
     </td>
   </tr>
   <tr>
     <td valign="middle">
       <br>
-      <b>Jr Administrative Analyst</b> @ Evertec Brasil<br>
-      <b>Systems Analysis and Development</b> — SENAI College<br><br>
+      🏢 &nbsp;<b>Jr Administrative Analyst</b> @ Evertec Brasil<br>
+      🎓 &nbsp;<b>Systems Analysis and Development</b> — SENAI College<br><br>
+      I work at the intersection of administrative operations and software development, combining hands-on analytical experience with a growing set of technical skills. My day-to-day involves organizing data, streamlining processes, and increasingly, building tools to automate the work I used to do by hand.<br><br>
+      Currently deepening my knowledge in <b>full-stack development</b> and <b>database analysis</b>, with a focus on writing clean, maintainable code and understanding systems end-to-end — from the database layer up to the interface.<br><br>
+      Always looking for opportunities to learn, build, and grow into a stronger developer.<br><br>
     </td>
   </tr>
 </table>
-
 <br>
-
 <!-- --------------------- -->
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=black&customColorList=12,14,20,24&height=120&section=footer" />
