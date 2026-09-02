@@ -20,12 +20,13 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=black&customColorList=12,14,20,24&height=30&section=header" width="100%" /><br>
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=black&customColorList=12,14,20,24&height=2&section=header" width="100%" height="1" />
       <a href="mailto:luccaperiotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
       &nbsp;
       <a href="https://www.linkedin.com/in/luccaviganonperiotto/"><img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       &nbsp;
       <a href="https://wa.me/5516997920301"><img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=black&customColorList=12,14,20,24&height=2&section=header" width="100%" height="1" />
     </td>
   </tr>
   <tr>
@@ -41,21 +42,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<!-- --------------------- -->
-<!-- My Knowledge -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-  &nbsp;Knowledge
-</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,tailwind,python,mysql,git,github,gamemaker&perline=12" />
-  </a>
-</p>
 
 <br>
 
