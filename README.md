@@ -8,7 +8,6 @@
 <table align="center" width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=black&customColorList=12,14,20,24&height=2&section=header" width="100%" height="1" />
     </td>
   </tr>
   <tr>
@@ -50,6 +49,7 @@
       &nbsp;
       <a href="https://www.linkedin.com/in/luccaviganonperiotto/"><img src="https://img.shields.io/badge/LinkedIn-%23181818?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       <br><br>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1" width="100%" height="1" />
     </td>
   </tr>
 </table>
@@ -57,4 +57,3 @@
 <!-- --------------------- -->
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=black&customColorList=12,14,20,24&height=120&section=footer" />
- 
