@@ -2,17 +2,6 @@
 <!-- --------------------- -->
 <!-- My Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=black&customColorList=12,14,20,24&height=200&section=header&text=ʟᴜᴄᴄᴀ%20ᴠɪɢᴀɴᴏɴ%20ᴘᴇʀɪᴏᴛᴛᴏ&fontSize=68&fontAlignY=35&animation=twinkling&fontColor=fff" />
-<p align="center">
-  
-<!-- --------------------- -->
-<!-- Animated Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF8C00&size=26&center=true&vCenter=true&width=600&background=00000000&lines=Administrative+Analyst;FullStack+Developer;Database+Analysis" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Viganop&label=Profile%20views&color=333333&style=flat" alt="profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Max%20Streak-17%20days-333333?style=flat" alt="max streak" />
-</p>
 <br>
 <!-- --------------------- -->
 <!-- About Me + Contact Card -->
@@ -55,11 +44,11 @@
   <tr>
     <td align="center" valign="middle">
       <br>
-      <a href="mailto:luccaperiotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="mailto:luccaperiotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23181818?style=for-the-badge&logo=gmail&logoColor=white"></a>
       &nbsp;
-      <a href="https://www.linkedin.com/in/luccaviganonperiotto/"><img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="https://wa.me/5516997920301"><img src="https://img.shields.io/badge/-WhatsApp-%23181818?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
       &nbsp;
-      <a href="https://wa.me/5516997920301"><img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/luccaviganonperiotto/"><img src="https://img.shields.io/badge/LinkedIn-%23181818?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       <br><br>
     </td>
   </tr>
