@@ -16,11 +16,9 @@
     </td>
   </tr>
   <tr>
-    <td valign="middle">
+    <td align="center" valign="middle">
       <br>
-      I work at the intersection of administrative operations and software development, combining hands-on analytical experience with a growing set of technical skills. My day-to-day involves organizing data, streamlining processes, and increasingly, building tools to automate the work I used to do by hand.<br><br>
-      Currently deepening my knowledge in <b>full-stack development</b> and <b>database analysis</b>, with a focus on writing clean, maintainable code and understanding systems end-to-end, from the database layer up to the interface.<br><br>
-      Always looking for opportunities to learn, build, and grow into a stronger developer.<br><br>
+      I work at the intersection of administrative operations and software development, combining hands-on analytical experience with a growing set of technical skills, currently deepening my knowledge in <b>full-stack development</b> and <b>database analysis</b>, with a focus on writing clean, maintainable code and understanding systems end-to-end, always looking for opportunities to learn, build, and grow into a stronger developer.<br><br>
     </td>
   </tr>
   <tr>
@@ -29,7 +27,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="middle">
+    <td align="center" valign="middle">
       <br>
       🏢 &nbsp;<b>Jr Administrative Analyst</b> | Evertec Brasil<br>
       🎓 &nbsp;<b>Systems Analysis and Development</b> | Senai College<br><br>
