@@ -53,5 +53,11 @@
 </table>
 <br>
 <!-- --------------------- -->
+<!-- Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Viganop/Viganop/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</p>
+<br>
+<!-- --------------------- -->
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=black&customColorList=12,14,20,24&height=120&section=footer" />
